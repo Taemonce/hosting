@@ -1,0 +1,41 @@
+ *{
+  
+   margin:0px;
+   padding:0px;
+  }
+
+
+div#feminismo{
+     
+     margin:auto;
+     margin:50px;
+     width:900px;
+     height:100px;
+     background-color:#9BB08E;
+}
+
+
+div#igualdad{
+
+      float:right;
+      width:500px;
+      height:500px;
+      background-color:#8EACB0;
+}
+
+
+div#fechas{
+ 
+       width:700px;
+       height:700px;
+       background-color:#A69BCC;
+}
+
+
+div#feministas{
+       
+       margin-top:20px;
+       width:1600px;
+       height:500px;
+       background-color:#A4C7E7;
+}
